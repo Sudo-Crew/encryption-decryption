@@ -13,15 +13,15 @@ This is a Python-based encryption and decryption tool with a graphical user inte
 - Python 3.x
 - PyCryptodome
 - tkinter (usually included with Python)
-- PyInstaller (for creating executables)
+
 
 ## Installation
 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/Sudo-Crew/encryption-decryption.git
+   cd encryption-decryption
 2. Create and activate a virtual environment:
     ```
     python -m venv env
